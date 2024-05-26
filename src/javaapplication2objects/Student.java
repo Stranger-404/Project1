@@ -12,7 +12,6 @@ public class Student {
     //Incapsulation: making variables private and accessing them through other classes
     private String name;
     private int age;
-    private float weight;
 
     /**
      * @return the name
